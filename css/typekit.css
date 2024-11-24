@@ -1,0 +1,63 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * anona:
+ *   - http://typekit.com/eulas/00000000000000007756f68c
+ * capitana:
+ *   - http://typekit.com/eulas/00000000000000007735f333
+ *   - http://typekit.com/eulas/00000000000000007735f33d
+ *   - http://typekit.com/eulas/00000000000000007735f338
+ * degular-mono:
+ *   - http://typekit.com/eulas/00000000000000007752dfed
+ * harpagan:
+ *   - http://typekit.com/eulas/000000000000000077572357
+ *
+ * © 2009-2024 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2024-11-15 13:58:42 UTC"}*/
+
+@import url("https://p.typekit.net/p.css?s=1&k=klj1rev&ht=tk&f=48567.48574.48578.55340.58165.58185&a=1494256&app=typekit&e=css");
+
+@font-face {
+font-family:"capitana";
+src:url("https://use.typekit.net/af/484103/00000000000000007735f333/30/l?subset_id=2&fvd=n2&v=3") format("woff2"),url("https://use.typekit.net/af/484103/00000000000000007735f333/30/d?subset_id=2&fvd=n2&v=3") format("woff"),url("https://use.typekit.net/af/484103/00000000000000007735f333/30/a?subset_id=2&fvd=n2&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:200;font-stretch:normal;
+}
+
+@font-face {
+font-family:"capitana";
+src:url("https://use.typekit.net/af/c85018/00000000000000007735f33d/30/l?subset_id=2&fvd=n6&v=3") format("woff2"),url("https://use.typekit.net/af/c85018/00000000000000007735f33d/30/d?subset_id=2&fvd=n6&v=3") format("woff"),url("https://use.typekit.net/af/c85018/00000000000000007735f33d/30/a?subset_id=2&fvd=n6&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:600;font-stretch:normal;
+}
+
+@font-face {
+font-family:"capitana";
+src:url("https://use.typekit.net/af/d5639b/00000000000000007735f338/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/d5639b/00000000000000007735f338/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/d5639b/00000000000000007735f338/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"anona";
+src:url("https://use.typekit.net/af/806055/00000000000000007756f68c/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/806055/00000000000000007756f68c/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/806055/00000000000000007756f68c/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"harpagan";
+src:url("https://use.typekit.net/af/6d17c6/000000000000000077572357/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("woff2"),url("https://use.typekit.net/af/6d17c6/000000000000000077572357/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("woff"),url("https://use.typekit.net/af/6d17c6/000000000000000077572357/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"degular-mono";
+src:url("https://use.typekit.net/af/95edba/00000000000000007752dfed/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/95edba/00000000000000007752dfed/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/95edba/00000000000000007752dfed/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+.tk-capitana { font-family: "capitana",sans-serif; }
+.tk-anona { font-family: "anona",sans-serif; }
+.tk-harpagan { font-family: "harpagan",sans-serif; }
+.tk-degular-mono { font-family: "degular-mono",sans-serif; }
