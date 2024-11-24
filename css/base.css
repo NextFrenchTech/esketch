@@ -263,7 +263,7 @@ main {
   line-height: .9;
   margin: 0;
   text-transform: uppercase;
-  font-size: clamp(3rem,19vw,8rem);
+  font-size: clamp(3rem,14vw,8rem);
   max-width: 1000px;
   color: var(--color-title);
 }
